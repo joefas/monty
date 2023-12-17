@@ -7,8 +7,8 @@
  */
 void f_stack(stack_t **head, unsigned int counter)
 {
-	counter(void);
-	head(void);
+	(void)counter;
+	(void)head;
 
 	tap.lifi = 0;
 }

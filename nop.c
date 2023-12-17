@@ -7,6 +7,6 @@
  */
 void f_nop(stack_t **head, unsigned int counter)
 {
-	head(void);
-	counter(void);
+	(void)head;
+	(void)counter;
 }
